@@ -1,4 +1,3 @@
-basic.showString("https://learn.browndoggadgets.com/Guide/Ticklebot/303?lang=en")
 pins.touchSetMode(TouchTarget.LOGO, TouchTargetMode.Capacitive)
 servos.P1.setAngle(90)
 servos.P2.setAngle(90)
